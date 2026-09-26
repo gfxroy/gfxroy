@@ -1,6 +1,6 @@
 # Hi, I'm Aaditya Roy 👋
 
-**Applied AI Engineer** — I build LLM-powered products: real-time voice agents with long-term memory, LLM security tooling, agents, and retrieval pipelines. Based in Delhi, open to US roles (remote or relocation).
+**Applied AI Engineer** I build LLM-powered products: real-time voice agents with long-term memory, LLM security tooling, agents, and retrieval pipelines. Based in Delhi, open to US roles (remote or relocation).
 
 🌐 **Portfolio:** [aaditya-roy-portfolio.vercel.app](https://aaditya-roy-portfolio.vercel.app)
 
@@ -22,4 +22,4 @@ Python · TypeScript · FastAPI · React · OpenAI · Gemini · AWS Bedrock · p
 
 ## 🏆 Highlights
 - Global winner in my category, Aorus Gigabyte 3D render contest (two winning entries)
-- Grew a YouTube channel to 57K followers as an early Shorts creator in India
+- Got selected in nvidia inception , AIC BIMTECH , NFDI (NIFT DELHI)
